@@ -237,7 +237,11 @@ Due to high turnover and strong demand.
 ---
 
 ## 📷 Dashboard Preview
-
-
-
+<img width="1257" height="647" alt="Screenshot 2026-01-27 095425" src="https://github.com/user-attachments/assets/f73a3ce4-75d9-41f0-b11b-ddddf8f57ddc" />
+<img width="1206" height="674" alt="Screenshot 2026-01-28 055731" src="https://github.com/user-attachments/assets/40cc606b-34d4-410e-85d9-38e4991be28f" />
+<img width="1622" height="904" alt="Screenshot 2026-01-28 055831" src="https://github.com/user-attachments/assets/d7a06979-3523-40ea-8db7-f8e79f8ea739" />
+<img width="1621" height="911" alt="Screenshot 2026-01-28 055854" src="https://github.com/user-attachments/assets/9c7edf2c-03cd-45c1-a3c9-22b672890b08" />
+<img width="1206" height="676" alt="Screenshot 2026-01-28 060002" src="https://github.com/user-attachments/assets/342b6789-b4f7-4698-9219-18835a83caa4" />
+<img width="1204" height="674" alt="Screenshot 2026-01-28 060041" src="https://github.com/user-attachments/assets/04536d96-390e-42aa-8f1e-22a5d7090ed9" />
+<img width="1208" height="674" alt="Screenshot 2026-01-28 100612" src="https://github.com/user-attachments/assets/c8744648-b47d-4e4e-b667-106128b2fdad" />
 
