@@ -47,7 +47,7 @@ The real estate sector in 2025 struggled to sustain the strong momentum built in
 
 ## 📂 Dataset
 
-**Source:** Single Excel workbook · **5 relational tables** · **5,000+ rows per table** · Historical data: 2023–2025
+**Source:** Single Excel workbook · **5 relational tables** · **9,000+ rows per table** · Historical data: 2023–2025
 
 | Table | Type | Key Fields |
 |-------|------|------------|
@@ -66,7 +66,7 @@ Power BI Desktop   →   Dashboard design, publishing & interactivity
 Power Query (M)    →   Data ingestion, cleaning & transformation
 DAX                →   Custom KPIs, time intelligence, iterative measures
 Star Schema        →   Optimized relational data model
-Excel              →   Source data (5 tables × 5,000+ rows)
+Excel              →   Source data (5 tables × 9,000+ rows)
 ```
 
 ---
