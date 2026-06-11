@@ -8,13 +8,14 @@
 <br/><br/>
 
 # 🏙️ Real Estate Performance Analytics
-### EMAAR — Full-Cycle Power BI Intelligence Dashboard · 2023–2025
+
+### Full-Cycle Power BI Intelligence Dashboard · 2023–2025
 
 <br/>
 
-| 💰 Total Revenue | 🏠 Units Sold | 📊 Conversion Rate | 👥 Total Clients | 👁️ Total Visits |
-|:---:|:---:|:---:|:---:|:---:|
-| **$1.54 Billion** | **2,000** | **40%** | **1,479** | **5,000** |
+|  💰 Total Revenue | 🏠 Units Sold | 📊 Conversion Rate | 👥 Total Clients | 👁️ Total Visits |
+| :---------------: | :-----------: | :----------------: | :--------------: | :--------------: |
+| **$1.54 Billion** |   **2,000**   |       **40%**      |     **1,479**    |     **5,000**    |
 
 <br/>
 
@@ -24,9 +25,9 @@
 
 ## 📌 Project Overview
 
-A **comprehensive Power BI analytics platform** built for EMAAR Real Estate, designed to optimize sales efficiency, expose performance gaps, and drive data-informed strategy across three fiscal years.
+A comprehensive Power BI analytics platform designed for a large-scale real estate enterprise, built to optimize sales efficiency, expose performance gaps, and support data-driven strategic decision-making across three fiscal years.
 
-The project covers the **full data lifecycle** — from raw Excel ingestion and cleaning, through Star Schema modeling and advanced DAX engineering, to an executive-grade interactive dashboard.
+The project covers the full data lifecycle — from raw Excel ingestion and cleaning, through Star Schema modeling and advanced DAX engineering, to an executive-grade interactive dashboard.
 
 > **Key focus areas:** Miami market slowdown · Agent performance gap · Returning customer retargeting · Seasonal demand forecasting
 
@@ -36,12 +37,14 @@ The project covers the **full data lifecycle** — from raw Excel ingestion and 
 
 The real estate sector in 2025 struggled to sustain the strong momentum built in 2024. Four critical challenges required a data-driven response:
 
-| # | Challenge | Impact |
-|---|-----------|--------|
-| 1 | 📉 **Declining conversion in Miami** | Referral/lead rates dropped **17% YoY** |
-| 2 | ⏳ **Slower purchase decisions** | Q1–Q2 2025 sales stagnated vs 2024 peak |
-| 3 | 👥 **Agent performance gap** | Bottom performers recorded as low as **17% efficiency** |
-| 4 | 🔄 **Untapped returning customers** | High-CLV 2024 cohort left without re-engagement strategy |
+| # | Challenge                            | Impact                                                   |
+| - | ------------------------------------ | -------------------------------------------------------- |
+| 1 | 📉 **Declining conversion in Miami** | Referral/lead rates dropped **17% YoY**                  |
+| 2 | ⏳ **Slower purchase decisions**      | Q1–Q2 2025 sales stagnated vs 2024 peak                  |
+| 3 | 👥 **Agent performance gap**         | Bottom performers recorded as low as **17% efficiency**  |
+| 4 | 🔄 **Untapped returning customers**  | High-CLV 2024 cohort left without re-engagement strategy |
+
+---
 
 ---
 
